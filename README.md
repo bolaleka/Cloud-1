@@ -202,8 +202,5 @@ The following steps were taken to set up this project:
 - https://cloud.google.com/compute/docs/instance-groups
 - https://geekflare.com/google-cloud-sql-wordpress/
 
-## Contributors
-[@amaquena](https://github.com/Amaquena) [@Deathshadowown](https://github.com/Deathshadowown)
-## Final Mark 100/100
      
        
